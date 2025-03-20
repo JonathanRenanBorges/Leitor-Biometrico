@@ -14,9 +14,7 @@ Sistema de controle de acesso utilizando um **leitor biométrico autônomo**, ca
 
 ## ⚠️ **Demonstração**
 
-📹 Digital não cadastrada [Clique aqui para ver a demonstração](caminho/do/video.mp4)
-📹 Digital cadastrando [Clique aqui para ver a demonstração](caminho/do/video.mp4)
-📹 Digital cadastrada [Clique aqui para ver a demonstração](caminho/do/video.mp4)
+✅ Os vídeos das demonstrações estão junto ao arquivo. 
 
 ---
 ## 🎯 **Funcionalidades**  
